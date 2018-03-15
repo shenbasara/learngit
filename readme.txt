@@ -1,5 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes of files.
-Creating a new branch is quick.
+map实现在天地图上画点线面，并能输入属性，并将属性添加到解析出来的json字符串的properties键对应的值中
